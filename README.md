@@ -23,6 +23,10 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Screenshots
+![CleanShot 2024-04-23 at 11 22 51@2x](https://github.com/lagneshthakur/dogs_world/assets/13376802/d0899ee5-ec64-4fb7-9dde-351bbc8b0a05)
+![CleanShot 2024-04-23 at 11 23 13@2x](https://github.com/lagneshthakur/dogs_world/assets/13376802/49e823fd-1ac1-42df-9625-78a60a2897d6)
+![CleanShot 2024-04-23 at 11 23 49@2x](https://github.com/lagneshthakur/dogs_world/assets/13376802/6b264714-8322-4fbe-b004-5589505aacf0)
+
 
 ## Learn More
 
